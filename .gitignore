@@ -1,0 +1,14 @@
+# Gradle project-specific cache
+.gradle
+
+# Gradle build output
+build
+
+# IntelliJ IDEA project-specific settings
+.idea
+
+# The bane of my existence
+.DS_Store
+
+# Other
+NOTES.md
